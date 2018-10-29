@@ -1,0 +1,7 @@
+How many lines are drawn each frame? In other words, how often does the for loop run?
+- 38 lines. For loop run on each draw() function call.
+
+What do the first, second, and third appearances of the number 10 do in the code?
+First: Loop start with x = 10. Also is left margin.
+Second: Is the break statement, loop will stop when x < width-10. Also is right margin.
+Third: After each loop, x will increase 10. Also is margin between each line.
